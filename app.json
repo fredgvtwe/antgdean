@@ -1,5 +1,5 @@
 {
-    "name": "V2Ray",
+    "name": "antgdean",
     "description": "Deploy V2ray on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
@@ -9,6 +9,6 @@
         }
     },
  
-    "repository": "https://github.com/louyour/dan-vmess",
+    "repository": "https://github.com/louyour/antgdean",
     "stack": "container"
 }
