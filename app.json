@@ -1,6 +1,6 @@
 {
     "name": "antgdean",
-    "description": "Deploy V2ray on Heroku.",
+    "description": "antgdean.",
     "keywords": ["V2Ray"],
     "env": {
         "UUID": {
@@ -9,6 +9,6 @@
         }
     },
  
-    "repository": "https://github.com/louyour/antgdean",
+    "repository": "https://github.com/fredgvtwe/antgdean",
     "stack": "container"
 }
